@@ -1,0 +1,8 @@
+C:\Users\mayca\OneDrive\שולחן העבודה\B20 Ex02 MayCarmeli 313296204 AviyaMeidan 205441769\B20 Ex02\bin\Debug\B20 Ex02.exe
+C:\Users\mayca\OneDrive\שולחן העבודה\B20 Ex02 MayCarmeli 313296204 AviyaMeidan 205441769\B20 Ex02\bin\Debug\B20 Ex02.pdb
+C:\Users\mayca\OneDrive\שולחן העבודה\B20 Ex02 MayCarmeli 313296204 AviyaMeidan 205441769\B20 Ex02\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\mayca\OneDrive\שולחן העבודה\B20 Ex02 MayCarmeli 313296204 AviyaMeidan 205441769\B20 Ex02\obj\Debug\B20_Ex02.csprojAssemblyReference.cache
+C:\Users\mayca\OneDrive\שולחן העבודה\B20 Ex02 MayCarmeli 313296204 AviyaMeidan 205441769\B20 Ex02\obj\Debug\B20_Ex02.csproj.CoreCompileInputs.cache
+C:\Users\mayca\OneDrive\שולחן העבודה\B20 Ex02 MayCarmeli 313296204 AviyaMeidan 205441769\B20 Ex02\obj\Debug\B20_Ex02.csproj.CopyComplete
+C:\Users\mayca\OneDrive\שולחן העבודה\B20 Ex02 MayCarmeli 313296204 AviyaMeidan 205441769\B20 Ex02\obj\Debug\B20 Ex02.exe
+C:\Users\mayca\OneDrive\שולחן העבודה\B20 Ex02 MayCarmeli 313296204 AviyaMeidan 205441769\B20 Ex02\obj\Debug\B20 Ex02.pdb
